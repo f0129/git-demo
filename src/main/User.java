@@ -8,5 +8,6 @@ public class User {
     public void test(){
         System.out.println("1111");
         System.out.println("asd");
+        System.out.println("dddd");
     }
 }
